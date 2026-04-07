@@ -41,7 +41,7 @@ This analysis includes:
 
 All Tableau workbooks are stored in the `Tableau_work_book` folder:
 
-- [Dashboard Workbook](Tableau_work_book/dashboard.twbx)
+- [Dashboard Workbook](Tableau_work_book/hrcasestudy.twb)
 
 The notebook contains step-by-step analysis including data loading, cleaning, feature summarization, and visualization. The PDF provides a complete report for stakeholders.
 
