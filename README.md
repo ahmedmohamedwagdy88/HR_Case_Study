@@ -28,11 +28,10 @@ This analysis includes:
 - Visual insights about supplier performance, cost, and quality  
 
 ### 💡 Key Insights  
-- Supplier 4 has approximately **15–20% higher cost** compared to other suppliers  
-- Supplier 3 shows a **defect rate of ~18%**, higher than the overall average (~12%)  
-- Skincare products contribute to around **35–40% of total cost**, making them the most expensive category  
-- Cosmetics category demonstrates approximately **10–15% better cost efficiency** compared to other product types
-- Supplier 4 contributes to approximately **30–35% of total supply volume**
+-**Work Mode Trends:** While **On-site** roles remain prevalent, there is a significant shift toward **Hybrid and Remote** models in the Tech and Finance sectors.
+- **Skill Demand:** The most sought-after technical skills include **Business Intelligence (BI), SQL, and Data Analytics**, showing a high market value for data-literate candidates.
+- **Active Sectors:** The **Staffing & Recruiting** sector is the primary driver of job postings, indicating a high reliance on third-party talent acquisition.
+- **Geographic Hotspots:** Recruitment activity is heavily concentrated in specific industrial hubs (e.g., Oldenburg, London), suggesting where companies should focus their local branding.
   
 ## 📄 Notebook & Case Study
 - **Notebook**: [Open Notebook](notebook/HR_case_Study_.ipynb)  
@@ -46,21 +45,21 @@ All Tableau workbooks are stored in the `Tableau_work_book` folder:
 The notebook contains step-by-step analysis including data loading, cleaning, feature summarization, and visualization. The PDF provides a complete report for stakeholders.
 
 ## 🎯 Recommendations
-- Optimize supplier selection  
-- Implement cost reduction strategies  
-- Improve quality control for certain suppliers
+-**Upskilling Strategy:** Current employees and job seekers should prioritize **BI tools (Tableau/Power BI)** and **Python** to remain competitive.
+- **Flexible Work Models:** To attract top talent, companies should consider transitioning "On-site" roles to "Hybrid" where feasible, as market data shows this is a key preference for candidates.
+- **Standardized Job Descriptions:** Recruiters should optimize JDs by listing specific technical skills early to improve ATS (Applicant Tracking System) performance.
 
   
 ## 💼 Business Impact
 
 This analysis can help businesses to:
 
-- Reduce operational costs by identifying high-cost suppliers  
-- Improve supplier selection based on performance and quality  
-- Enhance product quality by addressing high defect rates  
-- Optimize product strategy based on cost distribution across categories  
+- **Reduced Time-to-Hire:** Streamlined sourcing by identifying high-demand skills early in the process.
+- **Optimized Recruitment Budget:** Targeted advertising in high-activity geographic zones reduces wasted ad spend.
+- **Data-Driven Decisions:** The interactive Tableau dashboard allows leadership to visualize market competition in real-time, enabling faster strategic pivots.  
 
 ## 🙍‍♂️ Author
 **Ahmed Wagdy**  
 Data Analyst | HR Analysis
+*Data Analyst & Media Specialist* [LinkedIn Profile](www.linkedin.com/in/ahmed-wagdi-a02b5435b) | [Portfolio](https://github.com/ahmedmohamedwagdy88/Ahmed-Wagdi)
 
