@@ -2,6 +2,11 @@
 
 ## 📌 Project Overview
 This project analyzes HR data focusing on job postings, recruitment trends, and labor market insights. The goal is to identify patterns in job types, locations, and required skills to help stakeholders make data-driven hiring decisions.
+## 📂 Dataset
+
+The dataset used in this project is available in the repository.
+
+📥 [Download Dataset](Data/cleaned_hr_case_study.csv)
 
 ## 📊 Dataset
 The dataset includes information from LinkedIn job postings, such as:
