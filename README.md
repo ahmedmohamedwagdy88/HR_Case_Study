@@ -30,7 +30,7 @@ The dataset includes information from LinkedIn job postings, such as:
 This analysis includes:
 - Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA)  
-- Visual insights about supplier performance, cost, and quality  
+- Visual insights about best places to work and future what jobs will be required
 
 ### 💡 Key Insights  
 -**Work Mode Trends:** While **On-site** roles remain prevalent, there is a significant shift toward **Hybrid and Remote** models in the Tech and Finance sectors.
