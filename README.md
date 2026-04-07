@@ -61,5 +61,5 @@ This analysis can help businesses to:
 ## 🙍‍♂️ Author
 **Ahmed Wagdy**  
 Data Analyst | HR Analysis
-*Data Analyst & Media Specialist* [LinkedIn Profile](www.linkedin.com/in/ahmed-wagdi-a02b5435b) | [Portfolio](https://github.com/ahmedmohamedwagdy88/Ahmed-Wagdi)
+*Data Analyst & Media Specialist* [LinkedIn Profile](https://www.linkedin.com/in/ahmed-wagdi-a02b5435b) | [Portfolio](https://github.com/ahmedmohamedwagdy88/Ahmed-Wagdi)
 
