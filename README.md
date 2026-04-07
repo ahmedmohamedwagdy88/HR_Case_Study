@@ -21,6 +21,6 @@ The dataset includes information from LinkedIn job postings, such as:
 ![Dashboard Preview](images/case.png)
 
 ## 📁 How to Use
-1. Download the `HR case study.twb` file.
+1. Download the `Tableau_work_book/hr case study.twb` file.
 2. Open it using **Tableau Desktop** or **Tableau Public**.
 3. Ensure the `HR case study.csv` is linked as the data source.
