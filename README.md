@@ -20,7 +20,19 @@ The dataset includes information from LinkedIn job postings, such as:
 
 ![Dashboard Preview](images/case.png)
 
-## 📁 How to Use
-1. Download the `Tableau_work_book/hr case study.twb` file.
-2. Open it using **Tableau Desktop** or **Tableau Public**.
-3. Ensure the `HR case study.csv` is linked as the data source.
+📄 Notebook & Case Study
+Notebook: Open Notebook
+Case Study PDF: View Case Study
+The notebook contains step-by-step analysis including data loading, cleaning, feature summarization, and visualization. The PDF provides a complete report for stakeholders.
+
+🎯 Recommendations
+Optimize supplier selection
+Implement cost reduction strategies
+Improve quality control for certain suppliers
+
+💼 Business Impact
+This analysis can help businesses to:
+Reduce operational costs by identifying high-cost suppliers
+Improve supplier selection based on performance and quality
+Enhance product quality by addressing high defect rates
+Optimize product strategy based on cost distribution across categories
