@@ -35,8 +35,9 @@ This analysis includes:
 - Supplier 4 contributes to approximately **30–35% of total supply volume**
   
 ## 📄 Notebook & Case Study
-- **Notebook**: [Open Notebook](notebook/supply_chain_analysis_.ipynb)  
+- **Notebook**: [Open Notebook](notebook/HR_case_Study_.ipynb)  
 - **Case Study PDF**: [View Case Study](Case_Study.pdf/Manufacturing_Case_Study.pdf)
+- **Workbook**: [View Tableau_work_book](Tableau_work_book/hr case study.twb) 
 
 The notebook contains step-by-step analysis including data loading, cleaning, feature summarization, and visualization. The PDF provides a complete report for stakeholders.
 
