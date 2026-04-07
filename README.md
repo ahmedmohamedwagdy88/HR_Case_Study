@@ -18,7 +18,7 @@ The dataset includes information from LinkedIn job postings, such as:
 ## 📈 Key Insights & Dashboard
 
 
-![Dashboard Preview](images/hr case study.png)
+![Dashboard Preview](images/case.png)
 
 ## 📁 How to Use
 1. Download the `HR case study.twb` file.
