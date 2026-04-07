@@ -1,7 +1,8 @@
 # HR Case Study - Job Market & Recruitment Analysis
 
 ## 📌 Project Overview
-This project analyzes HR data focusing on job postings, recruitment trends, and labor market insights. The goal is to identify patterns in job types, locations, and required skills to help stakeholders make data-driven hiring decisions.
+This project analyzes HR data focusing on job postings, recruitment trends, and labor market insights. The goal is to identify patterns in job types, locations, and required skills to help stakeholders make data-driven hiring decisions.+
+
 ## 📂 Dataset
 
 The dataset used in this project is available in the repository.
