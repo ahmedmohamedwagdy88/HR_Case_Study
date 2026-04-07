@@ -37,7 +37,11 @@ This analysis includes:
 ## 📄 Notebook & Case Study
 - **Notebook**: [Open Notebook](notebook/HR_case_Study_.ipynb)  
 - **Case Study PDF**: [View Case Study](Case_Study.pdf/Manufacturing_Case_Study.pdf)
-- **Workbook**: [View Tableau_work_book](Tableau_work_book/hr case study.twb) 
+## Tableau Workbooks
+
+All Tableau workbooks are stored in the `Tableau_work_book` folder:
+
+- [Dashboard Workbook](Tableau_work_book/dashboard.twbx)
 
 The notebook contains step-by-step analysis including data loading, cleaning, feature summarization, and visualization. The PDF provides a complete report for stakeholders.
 
